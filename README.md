@@ -1,1 +1,1 @@
-# Pictures Profiles Web3
+# Picture Profiles Web3
