@@ -6,3 +6,4 @@
 - 0xchika (5).jpg
 - 0xchika (6).jpg
 - 0xchika (7).jpg
+- 0xchika (8).jpg
