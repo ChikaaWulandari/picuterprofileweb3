@@ -1,4 +1,4 @@
-# Picture Profile Web3
+# Picture Profiles Web3
 - 0xchika (1).jpg
 - 0xchika (2).jpg
 - 0xchika (3).jpg
